@@ -9,14 +9,14 @@ Jurusan Informatika Angkatan 18
 Google Maps Platform ialah sekumpulan API dan SDK yang memungkinkan developers
 untuk memasukkan Google Maps kedalam aplikasi smartphone dan halaman web atau untuk mengambil data dari Google Maps itu sendiri.
 
-Google Maps sendiri memiliki beragam manfaat seperti
+Google Maps Platform sendiri memiliki beragam produk lainnya seperti maps, route dan places. Dimana hampir seluruh orang menggunakan 
+produk ini untuk melihat peta, bernavigasi dan menemukan lokasi tempat yang ingin dituju. Bukan hanya ini saja Google Maps Platform
+sendiri memiliki berbagai bidang industri lainnya seperti Gaming dan Retail.
 
-1. Membantu Pemilik usaha dalam mengembangkan usahanya
+Google Maps Platform dapat digunakan sebagai Real-world maps untuk permainan open-world dimana developer dapat menggunakannya untuk
+membuat sebuah dunia game yang nyata dengan bantuan Google Maps Platform ini. Pada bidang retail/usaha, Google Maps Platform dapat
+digunakan untuk menampilkan toko terbaik bagi anda dengan detail yang lengkap seperti Rating, Foto dan waktu operasional, sehingga dapat
+menarik konsumen untuk datang berbelanja di toko anda.
 
-2. Membantu Konsumen dalam mencari lokasi dari suatu tempat
-
-3. Membantu pekerja seperti supir, ojek dan kurir barang
-
-4. Membantu turis dalam berwisata
-
-
+Faktanya sebanyak 86% persen pengguna internet menggunakan Google Maps ini berdasarkan data tahun 2019 dan sebanyak 81% masyarakat Indonesia menggunakan
+Google Maps
