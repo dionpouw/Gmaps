@@ -1,8 +1,8 @@
-# Aldion Sumampouw
+Aldion Sumampouw
 
-# Universitas Mulawarman
+Universitas Mulawarman
 
-# Jurusan Informatika Angkatan 18
+Jurusan Informatika Angkatan 18
 ## Hasil Eksplorasi Produk Google
 
 ### Google Maps Platform
