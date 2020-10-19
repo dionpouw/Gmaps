@@ -19,4 +19,10 @@ digunakan untuk menampilkan toko terbaik bagi anda dengan detail yang lengkap se
 menarik konsumen untuk datang berbelanja di toko anda.
 
 Faktanya sebanyak 86% persen pengguna internet menggunakan Google Maps ini berdasarkan data tahun 2019 dan sebanyak 81% masyarakat Indonesia menggunakan
-Google Maps
+Google Maps.
+
+Kelebihan Google Maps Platform sendiri ialah
+1. Memiliki Informasi yang sangat kaya didalamnya seperti peta dan lokasi
+2. Mampu membantu mengembangkan suatu bisnis
+3. Dapat membantu pekerjaan supir, ojek dan kurir.
+4. Menyediakan informasi yang lengkap bagi penggunanya.
