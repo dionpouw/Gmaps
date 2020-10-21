@@ -14,9 +14,10 @@ produk ini untuk melihat peta, bernavigasi dan menemukan lokasi tempat yang ingi
 sendiri memiliki berbagai bidang industri lainnya seperti Gaming dan Retail.
 
 Google Maps Platform dapat digunakan sebagai Real-world maps untuk permainan open-world dimana developer dapat menggunakannya untuk
-membuat sebuah dunia game yang nyata dengan bantuan Google Maps Platform ini. Pada bidang retail/usaha, Google Maps Platform dapat
-digunakan untuk menampilkan toko terbaik bagi anda dengan detail yang lengkap seperti Rating, Foto dan waktu operasional, sehingga dapat
-menarik konsumen untuk datang berbelanja di toko anda.
+membuat sebuah dunia game yang nyata dengan bantuan Google Maps Platform ini. 
+
+Pada bidang retail/usaha, Google Maps Platform dapat digunakan untuk menampilkan toko terbaik bagi anda dengan detail yang lengkap 
+seperti Rating, Foto dan waktu operasional, sehingga dapat menarik konsumen untuk datang berbelanja di toko anda.
 
 Faktanya sebanyak 86% persen pengguna internet menggunakan Google Maps ini berdasarkan data tahun 2019 dan sebanyak 81% masyarakat Indonesia menggunakan
 Google Maps, Sisanya menggunakan Mapbox, Openstreetmap dan lain-lain. Mayoritas menggunakan Google Maps karena Google Maps sendiri sudah terintegrasi didalam aplikasi 
