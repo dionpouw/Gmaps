@@ -38,3 +38,6 @@ Kekurangan Android
 - Aplikasi yang berjalan dibelakang layar membuat konsumsi baterai menjadi tinggi
 
 Platform lain selain dari Android yang menjadi saingan ialah iOS milik Apple. Berbeda dengan sistem operasi android, sistem iOS hanya secara ekslusif berada pada perangkat apple yang harganya mahal, kaku dan mengekang pengguna.
+
+
+Karya aplikasi Android sederhana : https://github.com/dionpouw/Submission
