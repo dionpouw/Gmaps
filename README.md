@@ -2,7 +2,7 @@ Aldion Sumampouw
 
 Universitas Mulawarman
 
-Jurusan Informatika Angkatan 18
+Jurusan Informatika Angkatan 2018
 ## Hasil Eksplorasi Produk Google
 
 ![](https://raw.githubusercontent.com/dionpouw/Gmaps/main/Android_Robot.png)
